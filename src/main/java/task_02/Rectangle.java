@@ -1,3 +1,5 @@
+package task_02;
+
 public class Rectangle {
     private double length;
     private double width;
